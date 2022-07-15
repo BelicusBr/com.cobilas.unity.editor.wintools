@@ -1,0 +1,36 @@
+{
+    "name": "Cobilas.Unity.Editor.WinTools",
+    "references": [
+        "Cobilas.Unity.Utility",
+        "Cobilas.Unity.Management.Build"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "CobilasCore.Extension.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.cobilas.unity.utility",
+            "expression": "1.0",
+            "define": "COBILAS_UTILITY"
+        },
+        {
+            "name": "com.cobilas.unity.management.build",
+            "expression": "1.0",
+            "define": "COBILAS_EVENT_BUILD"
+        },
+        {
+            "name": "com.cobilas.unity.extensions",
+            "expression": "1.0",
+            "define": "COBILAS_EXTENSIONS"
+        }
+    ],
+    "noEngineReferences": false
+}
