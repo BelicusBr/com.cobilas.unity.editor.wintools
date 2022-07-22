@@ -27,9 +27,9 @@
             "define": "COBILAS_EVENT_BUILD"
         },
         {
-            "name": "com.cobilas.unity.extensions",
+            "name": "com.cobilas.cobilascore",
             "expression": "1.0",
-            "define": "COBILAS_EXTENSIONS"
+            "define": "COBILAS_CORE"
         }
     ],
     "noEngineReferences": false
