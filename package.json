@@ -1,8 +1,10 @@
 {
   "name": "com.cobilas.unity.editor.wintools",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "displayName": "Cobilas Editor WinTools",
   "description": "Janelas utilitarias para o editor",
+  "licensesUrl": "https://github.com/BelicusBr/com.cobilas.unity.editor.wintools/blob/main/LICENSE.md",
+  "changelogUrl": "https://github.com/BelicusBr/com.cobilas.unity.editor.wintools/blob/main/CHANGELOG.md",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "type": "library",
@@ -11,30 +13,12 @@
     "name": "Cobilas CTB"
   },
   
-  "gitDependencies": {
-    "com.cobilas.unity.utility": {
-		"type" : "github",
-		"version" : "1.0.0",
-		"userName" : "BelicusBr"
-	},
-    "com.cobilas.unity.management.build": {
-		"type" : "github",
-		"version" : "1.0.0",
-		"userName" : "BelicusBr"
-	},
-    "com.cobilas.cobilascore": {
-		"type" : "github",
-		"version" : "1.0.0",
-		"userName" : "BelicusBr"
-	}
-  },
-  
   "repository": {
     "url" : "https://github.com/BelicusBr/com.cobilas.unity.editor.wintools.git",
     "type" : "git"
   },
   
   "relatedPackages": {
-    "com.cobilas.unity.editor.wintools": "1.0.0"
+    "com.cobilas.unity.editor.wintools": "1.0.4"
   }
 }
