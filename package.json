@@ -17,7 +17,9 @@
     "url" : "https://github.com/BelicusBr/com.cobilas.unity.editor.wintools.git",
     "type" : "git"
   },
-  
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@BelicusBr"
+  },
   "relatedPackages": {
     "com.cobilas.unity.editor.wintools": "1.0.5"
   }
