@@ -17,10 +17,7 @@ MonoBehaviour:
   repos:
   - start: 1
     _URL: https://github.com/BelicusBr/com.cobilas.unity.utility.git
-    branch: 1.0.13
-  - start: 1
-    _URL: https://github.com/BelicusBr/com.cobilas.unity.management.build.git
-    branch: 1.0.5
+    branch: 1.0.14
   - start: 1
     _URL: https://github.com/BelicusBr/com.cobilas.cobilascore.git
     branch: 1.0.31
