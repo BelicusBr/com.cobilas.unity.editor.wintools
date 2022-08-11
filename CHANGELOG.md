@@ -1,4 +1,8 @@
 # Changelog
+## [1.0.6] 11/08/2022
+- Fix CHANGELOG.md
+- Fix package.json
+- Change Editor\Cobilas.Unity.Editor.WinTools.asmdef
 ## [1.0.5] 31/07/2022
 - Fix CHANGELOG.md
 - Fix package.json
