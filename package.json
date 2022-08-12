@@ -1,6 +1,6 @@
 {
   "name": "com.cobilas.unity.editor.wintools",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "displayName": "Cobilas Editor WinTools",
   "description": "Janelas utilitarias para o editor",
   "licensesUrl": "https://github.com/BelicusBr/com.cobilas.unity.editor.wintools/blob/main/LICENSE.md",
@@ -21,6 +21,6 @@
     "registry":"https://npm.pkg.github.com/@BelicusBr"
   },
   "relatedPackages": {
-    "com.cobilas.unity.editor.wintools": "1.0.6"
+    "com.cobilas.unity.editor.wintools": "1.0.7"
   }
 }

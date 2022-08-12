@@ -1,4 +1,7 @@
 # Changelog
+## [1.0.7] 12/08/2022
+- Change package.json
+- Change Editor\Cobilas.Unity.Editor.WinTools.asmdef
 ## [1.0.6] 11/08/2022
 - Change Cobilas Editor WinTools.asset
 ## [1.0.6] 11/08/2022
